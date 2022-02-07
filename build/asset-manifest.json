@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Ritik-S/weather-app.git/static/css/main.ca31bff4.chunk.css",
+    "main.js": "/Ritik-S/weather-app.git/static/js/main.b5cbdaa8.chunk.js",
+    "main.js.map": "/Ritik-S/weather-app.git/static/js/main.b5cbdaa8.chunk.js.map",
+    "runtime-main.js": "/Ritik-S/weather-app.git/static/js/runtime-main.af890009.js",
+    "runtime-main.js.map": "/Ritik-S/weather-app.git/static/js/runtime-main.af890009.js.map",
+    "static/js/2.3180dabf.chunk.js": "/Ritik-S/weather-app.git/static/js/2.3180dabf.chunk.js",
+    "static/js/2.3180dabf.chunk.js.map": "/Ritik-S/weather-app.git/static/js/2.3180dabf.chunk.js.map",
+    "static/js/3.0516f340.chunk.js": "/Ritik-S/weather-app.git/static/js/3.0516f340.chunk.js",
+    "static/js/3.0516f340.chunk.js.map": "/Ritik-S/weather-app.git/static/js/3.0516f340.chunk.js.map",
+    "index.html": "/Ritik-S/weather-app.git/index.html",
+    "static/css/main.ca31bff4.chunk.css.map": "/Ritik-S/weather-app.git/static/css/main.ca31bff4.chunk.css.map",
+    "static/js/2.3180dabf.chunk.js.LICENSE.txt": "/Ritik-S/weather-app.git/static/js/2.3180dabf.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Ritik-S/weather-app.git/static/media/warm.c8f343e0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af890009.js",
+    "static/js/2.3180dabf.chunk.js",
+    "static/css/main.ca31bff4.chunk.css",
+    "static/js/main.b5cbdaa8.chunk.js"
+  ]
+}
